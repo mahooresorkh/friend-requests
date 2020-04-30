@@ -1,0 +1,25 @@
+{
+    "info": [
+        {
+            "id": 2,
+            "name": "علیرضا شجری",
+            "friendship_state": "requested",
+            "image": "https://static.toiimg.com/photo/72975551.cms",
+            "token": "i8ubb34tw9958cgrtwiqksopvn784g"
+        },
+        {
+            "id": 4,
+            "name": "حسن حسنی",
+            "friendship_state": "requested",
+            "image": "https://secure.i.telegraph.co.uk/multimedia/archive/03249/archetypal-male-fa_3249635c.jpg",
+            "token": "okmnji879853trgfbdrwtrggehfbdi"
+        },
+        {
+            "id": 103,
+            "name": "قربان حرفی",
+            "friendship_state": "requested",
+            "image": "https://149361174.v2.pressablecdn.com/wp-content/uploads/2018/07/Hukumuri-e1532517937473.jpg",
+            "token": "abnkjh09243kjh98234kj46rbcv99r"
+        }
+    ]     
+}
